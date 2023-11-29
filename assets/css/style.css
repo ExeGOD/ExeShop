@@ -301,11 +301,12 @@ body {
 
 .card-banner {
   background-color: var(--light-gray-1);
-  width: 380px;
+  width: 300px;
 }
 
 .img-holder {
   aspect-ratio: var(--width) / var(--height);
+  width: 300px;
 }
 
 .img-cover {
